@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">215958907647-463d91692ka1cq89b65htiqtms7ss95k.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://sylvan-ocean-179312.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">215958907647</string>
+    <string name="google_api_key" translatable="false">AIzaSyBp3psV3G_dYUhosDPmxwxZgCiadgSK6pw</string>
+    <string name="google_app_id" translatable="false">1:215958907647:android:852ab473155b4be1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBp3psV3G_dYUhosDPmxwxZgCiadgSK6pw</string>
+    <string name="google_storage_bucket" translatable="false">sylvan-ocean-179312.appspot.com</string>
+    <string name="project_id" translatable="false">sylvan-ocean-179312</string>
+</resources>
